@@ -7,9 +7,9 @@ activity - The type of activity performed when the corresponding measurements we
 
 Measurements
 1. tBodyAccMeanX
-tBodyAccMeanY
-tBodyAccMeanZ
-tBodyAccStdX
+2. tBodyAccMeanY
+3. tBodyAccMeanZ
+4. tBodyAccStdX
 tBodyAccStdY
 tBodyAccStdZ
 tGravityAccMeanX
