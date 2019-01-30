@@ -6,10 +6,10 @@ subject - The ID of the test subject
 activity - The type of activity performed when the corresponding measurements were taken
 
 Measurements
-1. tBodyAccMeanX
-2. tBodyAccMeanY
-3. tBodyAccMeanZ
-4. tBodyAccStdX
+* tBodyAccMeanX
+* tBodyAccMeanY
+* tBodyAccMeanZ
+* tBodyAccStdX
 tBodyAccStdY
 tBodyAccStdZ
 tGravityAccMeanX
